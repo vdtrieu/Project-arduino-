@@ -3,3 +3,5 @@ description: and learned :)
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-midnight
+url: "trieuProject.github.io"
+mathjax: true
