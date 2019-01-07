@@ -17,7 +17,7 @@ I use service GSM of SIM800A to get the coordinates of the nearest BTS, and use 
 * arduino: use Aruino IDE, C/C++ language
   * communicate between arduino and module SIM by serial port
   * use AT commands to control SIM800A
-* web : C#, CSS, ASP.NET    
+* web : C#, ASP.NET, CSS    
 ## Function
 * Get temperature
 ```C++
