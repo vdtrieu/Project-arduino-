@@ -1,4 +1,4 @@
-# Project 1
+# Project 1: Get data from sensors and send it to server
 
 ## 	Product specification
 
@@ -61,7 +61,7 @@ String getLocation() {
 }
 
 ```  
-* Send data to server
+* Send data to server:we create a server online and have it's Ip address, we also design a web (backend: ASP.NET, SQL, front-end: CSS), this is a function in arduino to send data to server
 ```C++
 void Send2Server(String server, String location, String temperature) {
  lcd.setCursor(0, 1);
@@ -85,7 +85,7 @@ void Send2Server(String server, String location, String temperature) {
 }
 
 ```  
-* Resend data when reveived message from server  
+* Resend data when reveived message from server:   
 ```C++
 void Check_message()
 {
