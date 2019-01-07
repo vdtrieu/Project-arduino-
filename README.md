@@ -1,4 +1,4 @@
 # hello-my-world  
-for beginer
-i'm just started
+* for beginer
+* i'm just started
 blabla
