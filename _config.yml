@@ -1,11 +1,9 @@
-<<<<<<< HEAD
 title: Something I did
 description: and learned :)
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-midnight
 url: "trieu-project.github.io"
+baseurl:"trieu-project.github.io"
 mathjax: true
-=======
-theme: jekyll-theme-slate
->>>>>>> parent of 9edc930... First thing :smiley:
+
