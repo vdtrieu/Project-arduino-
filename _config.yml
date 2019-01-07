@@ -1,1 +1,7 @@
-theme: jekyll-theme-slate
+title: Something I did
+description: and learned :)
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-midnight
+url: "trieuProject.github.io"
+mathjax: true
